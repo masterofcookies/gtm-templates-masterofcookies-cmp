@@ -1,5 +1,5 @@
 homepage: "https://masterofcookies.eu"
-documentation: "https://github.com/masterofcookies/gtm-cmp-template"
+documentation: "https://github.com/masterofcookies/gtm-templates-masterofcookies-cmp"
 versions:
   - sha: 1b54f0c2b2bc961b796ebb5dc1c0c73df8546ba3
     changeNotes: Initial release.

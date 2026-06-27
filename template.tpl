@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Master of Cookies CMP",
+  "categories": ["UTILITY", "ANALYTICS", "ADVERTISING"],
   "brand": {
     "id": "github.com_masterofcookies",
     "displayName": "Master of Cookies",
